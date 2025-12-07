@@ -1,0 +1,1 @@
+-> today i learned how memory allocation in go works like stack vs heap, and how to implement SLL in go. and runes in golang
