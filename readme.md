@@ -7,3 +7,4 @@
 
 agenda: it will be just a maintained readme with links and code gists to easy use and revise whenever needed again in life just like we say: when we cross our paths again.
 
+read blog on CQRS: https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
