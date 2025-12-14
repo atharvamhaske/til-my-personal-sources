@@ -10,3 +10,5 @@ agenda: it will be just a maintained readme with links and code gists to easy us
 read blog on CQRS: https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
 
 good tech writings: https://benhoyt.com/writings/
+
+studied about parallel database and distributed databases
