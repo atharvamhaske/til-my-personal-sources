@@ -12,3 +12,5 @@ read blog on CQRS: https://blog.risingstack.com/cqrs-explained-node-js-at-scale/
 good tech writings: https://benhoyt.com/writings/
 
 studied about parallel database and distributed databases
+
+golang blogs and good reads: https://github.com/enocom/gopher-reading-list
