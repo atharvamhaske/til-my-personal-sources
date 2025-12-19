@@ -14,3 +14,5 @@ good tech writings: https://benhoyt.com/writings/
 studied about parallel database and distributed databases
 
 golang blogs and good reads: https://github.com/enocom/gopher-reading-list
+
+did medium LC question on arrays in Golang and learned about TLS/SSL how DNS works and basics of system design and how angel one uses golang 
