@@ -18,3 +18,6 @@ golang blogs and good reads: https://github.com/enocom/gopher-reading-list
 did medium LC question on arrays in Golang and learned about TLS/SSL how DNS works and basics of system design and how angel one uses golang 
 
 https://pomb.us/build-your-own-react/ started learning react insiders and how react works by this amazing docs
+
+
+today deployed basic nodejs server on docker and learned how to ssh in aws and how nginx works : https://docs.docker.com/get-started/workshop/03_updating_app/
