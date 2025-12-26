@@ -23,3 +23,8 @@ https://pomb.us/build-your-own-react/ started learning react insiders and how re
 today deployed basic nodejs server on docker and learned how to ssh in aws and how nginx works : https://docs.docker.com/get-started/workshop/03_updating_app/
 
 https://docs.docker.com/engine/storage/volumes/ docker continued
+
+26 Dec: mostly golang blogs, talks on concurrency: 
+https://arya2004.hashnode.dev/exploring-built-in-container-types-in-go-arrays-slices-and-maps good blog
+https://www.youtube.com/watch?v=YHRO5WQGh0k&t=1s talk on Go schedular by Kavya Joshi
+routing : https://benhoyt.com/writings/go-routing/
