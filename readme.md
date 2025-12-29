@@ -28,3 +28,5 @@ https://docs.docker.com/engine/storage/volumes/ docker continued
 https://arya2004.hashnode.dev/exploring-built-in-container-types-in-go-arrays-slices-and-maps good blog
 https://www.youtube.com/watch?v=YHRO5WQGh0k&t=1s talk on Go schedular by Kavya Joshi
 routing : https://benhoyt.com/writings/go-routing/
+
+dsa easy arrays(binary search) and few tp as exams over
