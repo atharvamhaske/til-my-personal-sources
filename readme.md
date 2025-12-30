@@ -30,3 +30,5 @@ https://www.youtube.com/watch?v=YHRO5WQGh0k&t=1s talk on Go schedular by Kavya J
 routing : https://benhoyt.com/writings/go-routing/
 
 dsa easy arrays(binary search) and few tp as exams over
+
+https://songlh.github.io/paper/go-study.pdf
