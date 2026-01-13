@@ -32,3 +32,6 @@ routing : https://benhoyt.com/writings/go-routing/
 dsa easy arrays(binary search) and few tp as exams over
 
 https://songlh.github.io/paper/go-study.pdf
+
+
+how to handler cors in go : https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/
